@@ -9,7 +9,7 @@
     <section align="center">
       <i>links</i>
       <br />
-      <a href="https://razvansauciuc.dev"><b>download</b></a> • <a href="https://razvansauciuc.dev"><b>preview</b></a>
+      <a href="https://github.com/sauciucrazvan/amber-desktop-client/releases"><b>download</b></a> • <a href="https://razvansauciuc.dev"><b>preview</b></a>
     </section>
     <br />
     <section align="center">
