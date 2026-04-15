@@ -18,11 +18,5 @@
       <a href="https://github.com/sauciucrazvan/amber-desktop-client"><b>desktop client</b></a> // <a href="https://github.com/sauciucrazvan/amber-backend"><b>backend</b></a>
       <br /><br />
     </section>
-    <section align="center">
-      <i>for developers: docs</i>
-      <br />
-          <a href="/docs/readme.md"><b>documentation</b></a>
-      <br /><br />
-    </section>
     <br /><br /><br />
 </p>
