@@ -10,6 +10,7 @@
   <br /><br />
 
   <i>for developers: source</i><br />
-  <a href="https://github.com/sauciucrazvan/amber-desktop-client"><b>desktop client</b></a> // 
+  <a href="https://github.com/sauciucrazvan/amber-desktop-client"><b>desktop client</b></a> | 
+  <a href="https://github.com/sauciucrazvan/amber-web-client"><b>web client</b></a> | 
   <a href="https://github.com/sauciucrazvan/amber-backend"><b>backend</b></a>
 </div>
